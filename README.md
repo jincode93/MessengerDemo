@@ -7,20 +7,9 @@
 - `Combine`, `Swift Concurrency`를 활용해 네트워크 환경에서의 비동기처리를 진행하였습니다.
 - `XCTest`를 이용해 `Unit Test`를 진행하였습니다.
 
-### Apple 로그인
-![2024-01-142 38 01-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/3aa9c42b-0b39-4467-8207-b36dcecdf3c0)
-
-
-### 다크 / 라이트 모드 전환
-![2024-01-142 40 09-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/d7978e35-0c80-40b4-99d4-07ec39cd8b4a)
-
-
-### Firebase를 활용한 실시간 채팅
-![2024-01-142 50 56-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/ab7d7e62-60e8-43fc-bf1e-3f871ba6eb9e)
-
-
-### 프로필 사진 변경
-![2024-01-142 51 39-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/7d2b9584-880c-4822-ab11-e55ece6ab870)
+|Apple 로그인|다크/라이트 모드 전환|실시간 채팅|프로필 사진 변경|
+|---|---|---|---|
+|![2024-01-142 38 01-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/3aa9c42b-0b39-4467-8207-b36dcecdf3c0)|![2024-01-142 40 09-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/d7978e35-0c80-40b4-99d4-07ec39cd8b4a)|![2024-01-142 50 56-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/ab7d7e62-60e8-43fc-bf1e-3f871ba6eb9e)|![2024-01-142 51 39-ezgif com-video-to-gif-converter](https://github.com/jincode93/MessengerDemo/assets/111134273/7d2b9584-880c-4822-ab11-e55ece6ab870)|
 
 
 ## Firebase Auth를 통한 Google, Apple Login
